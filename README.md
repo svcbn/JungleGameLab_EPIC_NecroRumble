@@ -10,10 +10,8 @@
 ![]()  
 
 ---
-프로젝트 소개 - [Notion](https://pickle-orchestra-70c.notion.site/b89b6f9d8b5f4f3887f160869e47edb4?pvs=4)  
+프로젝트 소개 - [Notion](https://svcbn.notion.site/Necro-Rumble-80523c0203794514b957309233b2ab97?pvs=4)  
 
-프로젝트 영상 - [추가 예정]()  
-
-프로젝트 다운로드 - [Download ZIP]()   
+프로젝트 다운로드 - [Steam](https://store.steampowered.com/app/2735950/Necro_Rumble/)   
 
 <br/>   
