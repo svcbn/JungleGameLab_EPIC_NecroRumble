@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7384591308299149934
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 152147395783653626, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: m_Name
+      value: SwordEffectAllPurple
+      objectReference: {fileID: 0}
+    - target: {fileID: 152147395783653626, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4588385359234774500, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.99215686
+      objectReference: {fileID: 0}
+    - target: {fileID: 4588385359234774500, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4588385359234774500, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.5207457
+      objectReference: {fileID: 0}
+    - target: {fileID: 4588385359234774500, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: InitialModule.startColor.minColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4588385359234774500, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: InitialModule.startColor.minColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4588385359234774500, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: InitialModule.startColor.minColor.r
+      value: 0.39596844
+      objectReference: {fileID: 0}
+    - target: {fileID: 4588385359384513230, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.99215686
+      objectReference: {fileID: 0}
+    - target: {fileID: 4588385359384513230, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.34901965
+      objectReference: {fileID: 0}
+    - target: {fileID: 4588385359384513230, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.6174531
+      objectReference: {fileID: 0}
+    - target: {fileID: 4588385359733710996, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.99215686
+      objectReference: {fileID: 0}
+    - target: {fileID: 4588385359733710996, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4588385359733710996, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.2883575
+      objectReference: {fileID: 0}
+    - target: {fileID: 4588385360924091004, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.99215686
+      objectReference: {fileID: 0}
+    - target: {fileID: 4588385360924091004, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4588385360924091004, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.56994736
+      objectReference: {fileID: 0}
+    - target: {fileID: 5968914844106192768, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ad8269203b4ecd142b0659e67799f896, type: 2}
+    - target: {fileID: 6650548447862627251, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6650548447862627251, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6650548447862627251, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6650548447862627251, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6650548447862627251, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6650548447862627251, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6650548447862627251, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6650548447862627251, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6650548447862627251, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6650548447862627251, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6650548447862627251, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0bf8064630e90344db08e4e8722aed5c, type: 3}

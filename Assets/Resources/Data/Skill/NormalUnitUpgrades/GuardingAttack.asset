@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8119b5d4d317f2748a7f3f78200c4c3f, type: 3}
+  m_Name: GuardingAttack
+  m_EditorClassIdentifier: 
+  _id: 108
+  _name: Guarding Attack
+  _skillGrade: -99
+  _skillDataList:
+  - _iconSprite: {fileID: 21300000, guid: 4d7ee28375293b540944ca16f09f9dd6, type: 3}
+    _displayName: "\uD30C\uC218\uAFBC"
+    _textColor: {r: 0, g: 0, b: 0, a: 0}
+    _description: "[\uC0AC\uC6A9 \uC548\uD568]\n\uBCF5\uADC0\uC2DC \uACF5\uACA9 \uC18D\uB3C4
+      5\uCD08\uAC04 <color=#6AF85A>+30%</color>"
+    _cooldown: 0
+    unitType: 0
+  _statModifiers:
+  - statType: 4
+    modifierName: 
+    value: 30
+    type: 1
+    duration: 5
+    shouldBeDisplayed: 0
+  _isRecallUpgrade: 1

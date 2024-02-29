@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 172ca81cc8ae78d48a50068e873d823c, type: 3}
+  m_Name: ChunkData
+  m_EditorClassIdentifier: 
+  _blockSize: 15
+  _chunkGuaranteedSpace: 40
+  _startingDeadzoneRange: 45
+  _startingChunkRange: 25
+  _startingChunkPrefab: {fileID: 8499434559758524202, guid: a4dc49b5ac2a9684ebd5e9926ace798f, type: 3}
+  _blockGenerationRange: 80
+  _blockRemovalRange: 80
+  _chunkChance: 50
+  _propChance: 50
+  _tickInterval: 0.5
+  _chunkInfos:
+  - chunkPrefab: {fileID: 8939162180693687591, guid: 2fb96aeb88021d649b9b93344787d002, type: 3}
+    chunkWeightedChance: 10
+    _minMaxTimeCondition: {x: 0, y: 20}
+  - chunkPrefab: {fileID: 9220692137529207080, guid: c5291c6186519a54f81c2c03a0637b29, type: 3}
+    chunkWeightedChance: 10
+    _minMaxTimeCondition: {x: 0, y: 20}
+  - chunkPrefab: {fileID: 8939162180693687591, guid: 3a3c7a31c223b4c4e88ce9124af28588, type: 3}
+    chunkWeightedChance: 7
+    _minMaxTimeCondition: {x: 0, y: 5}
+  - chunkPrefab: {fileID: 8939162180693687591, guid: f52b5b23c9f8eb848bc24178f9cfde4f, type: 3}
+    chunkWeightedChance: 12
+    _minMaxTimeCondition: {x: 5, y: 13}
+  - chunkPrefab: {fileID: 8939162180693687591, guid: 3fecfda3de6b0b94aba68110818adda9, type: 3}
+    chunkWeightedChance: 12
+    _minMaxTimeCondition: {x: 13, y: 20}
+  - chunkPrefab: {fileID: 8939162180693687591, guid: 31e3efa9e31ae124c961ba141d9daa64, type: 3}
+    chunkWeightedChance: 3
+    _minMaxTimeCondition: {x: 1, y: 7}
+  - chunkPrefab: {fileID: 8939162180693687591, guid: fb1250083720e9d40beadace195bffa1, type: 3}
+    chunkWeightedChance: 3
+    _minMaxTimeCondition: {x: 4, y: 10}
+  - chunkPrefab: {fileID: 8939162180693687591, guid: 40fcfb57a6e50974caac6ea006059e4a, type: 3}
+    chunkWeightedChance: 3
+    _minMaxTimeCondition: {x: 7, y: 13}
+  - chunkPrefab: {fileID: 8939162180693687591, guid: d8442d886ee63e045add21904dbcb3c0, type: 3}
+    chunkWeightedChance: 3
+    _minMaxTimeCondition: {x: 10, y: 16}
+  - chunkPrefab: {fileID: 8939162180693687591, guid: 18153fa6ce71bfd48b61e59ff51dafcc, type: 3}
+    chunkWeightedChance: 3
+    _minMaxTimeCondition: {x: 13, y: 20}
+  - chunkPrefab: {fileID: 8939162180693687591, guid: 4cf6176287f90e04a85051810dd00738, type: 3}
+    chunkWeightedChance: 3
+    _minMaxTimeCondition: {x: 16, y: 20}
+  _propInfos:
+  - chunkPrefab: {fileID: 4326270347373437947, guid: 0e174c87a1916ad4a9f6f16d24d9e68a, type: 3}
+    chunkWeightedChance: 24
+    _minMaxTimeCondition: {x: 0, y: 20}
+  - chunkPrefab: {fileID: 4326270347373437947, guid: 25d58f9d51bc29b49a6d09807a76532b, type: 3}
+    chunkWeightedChance: 8
+    _minMaxTimeCondition: {x: 0, y: 20}
+  - chunkPrefab: {fileID: 4028752222034030928, guid: 59ae42be8e243294aa21df4a92cb4e1c, type: 3}
+    chunkWeightedChance: 3
+    _minMaxTimeCondition: {x: 1, y: 20}

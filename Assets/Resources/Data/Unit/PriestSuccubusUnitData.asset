@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0df54cc6ffb3b845a9b1d6b23c6a676, type: 3}
+  m_Name: PriestSuccubusUnitData
+  m_EditorClassIdentifier: 
+  _unitAggroStats:
+    _aggroInertiaWeight: 1
+    _aggroCommanderWeight: -0.5
+    _aggroRangedDealerWeight: -0.5
+    _aggroPresenceWeight_h: 1
+  _humanUnitStats:
+    _baseMaxHp: 1500
+    _baseMoveSpeed: 3
+    _baseAttackRange: 5
+    _baseAttackPerSec: 0.7
+    _baseAttackDamage: 27
+    _presenceAggroWeight: 0
+  _undeadUnitStats:
+    _baseMaxHp: 1500
+    _baseMoveSpeed: 4.2
+    _baseAttackRange: 2
+    _baseAttackPerSec: 0.7
+    _baseAttackDamage: 27
+    _baseMaxAggroNum: 3
+    _baseMaxHatred: 0
+  _unitInfo:
+    _unitType: 23
+    _unitName: "\uC18C\uB4DC\uB9E8..?"
+    _unitDescription: "\uC18C\uB4DC\uB9E8\uC785\uB2C8\uB2E4..?"

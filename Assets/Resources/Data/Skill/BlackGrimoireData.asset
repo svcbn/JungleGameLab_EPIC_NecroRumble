@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 302c87f54a33f864695559a39f5165d6, type: 3}
+  m_Name: BlackGrimoireData
+  m_EditorClassIdentifier: 
+  _id: 15
+  _name: BlackGrimoire
+  _skillGrade: 5
+  _skillDataList:
+  - _iconSprite: {fileID: 21300000, guid: 1132f229639feeb4f81d18c7da0677eb, type: 3}
+    _displayName: ^text_upgrade_artifact_blackGrimoire_name
+    _textColor: {r: 0.41430968, g: 0.972549, b: 0.3529412, a: 1}
+    _description: ^text_upgrade_artifact_blackGrimoire_desc
+    _cooldown: 0
+    unitType: 0
+  downReviveCoolPercent: 50
+  downUnitHp: 60
+  maxUnitNumMultiflier: 1

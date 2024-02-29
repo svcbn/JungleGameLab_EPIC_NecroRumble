@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4349eecb77fe1c43a3e227bc88cb69f, type: 3}
+  m_Name: HeavyAttackData
+  m_EditorClassIdentifier: 
+  _id: 306
+  _name: HeavyAttack
+  _skillGrade: 303
+  _skillDataList:
+  - _iconSprite: {fileID: 21300000, guid: 857a3c7cae81feb4aa6fd38ca4a46d83, type: 3}
+    _displayName: ^text_upgrade_archer_heavyAttack_level1_name
+    _textColor: {r: 0.9716981, g: 0.35292807, b: 0.35292807, a: 1}
+    _description: ^text_upgrade_archer_heavyAttack_level1_desc
+    _cooldown: 0
+    unitType: 0
+  - _iconSprite: {fileID: 21300000, guid: 989c149a4c2cd0545ac782b0ff9726cd, type: 3}
+    _displayName: ^text_upgrade_archer_heavyAttack_level2_name
+    _textColor: {r: 0.41430968, g: 0.972549, b: 0.3529412, a: 1}
+    _description: ^text_upgrade_archer_heavyAttack_level2_desc
+    _cooldown: 0
+    unitType: 0
+  attackRangeIncreasePercent1: 0
+  attackDamageIncreaseFlat1: 0
+  attackFinalDamageIncreasePercent1: 60
+  attackSpeedDecreasePercent1: 20
+  attackRangeIncreasePercent2: 100
+  attackDamageIncreaseFlat2: 0
+  attackSlowPercent2: 80
+  attackSlowDuration2: 3

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49c639a4d369deb49aeae8eba96b5ff8, type: 3}
+  m_Name: SkeletonArcherUnitSummonData
+  m_EditorClassIdentifier: 
+  _iconSprite: {fileID: 21300000, guid: a8b5673890af9fe4cb8a333eff54cf9a, type: 3}
+  _id: 15
+  _skillGrade: -99
+  _name: Summon_SkeletonArcher
+  _displayName: "Placeholder / \uC18C\uD658: \uC2A4\uCF08\uB808\uD1A4 \uC544\uCC98"
+  _description: "Placeholder / \uB9E4 \uB77C\uC6B4\uB4DC \uC2DC\uC791 \uC2DC <color=#00FF00>\uC2A4\uCF08\uB808\uD1A4
+    \uC544\uCC98</color> 2\uB9C8\uB9AC\uB97C \uC18C\uD658\uD569\uB2C8\uB2E4."
+  _cooldown: 0
+  unitType: 17
+  remainRound: 0
+  unitPrefab: {fileID: 4496374788451283440, guid: 311e1c6d835a5c04bb89344737e3ddca, type: 3}
+  summonCount: 2
+  isEveryWave: 0

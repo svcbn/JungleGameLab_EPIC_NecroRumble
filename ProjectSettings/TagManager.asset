@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CameraTarget
+  - Human
+  - Corpse
+  - Undead
+  - Crow
+  - Cloud
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - UndeadUnit
+  - HumanUnit
+  - UndeadCorpse
+  - HumanCorpse
+  - Obstacle
+  - Effect
+  - PostProcess
+  - PlayerObstacle
+  - Ground
+  - Area
+  - MinimapIcon
+  - GridGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: CameraSortingLayer
+    uniqueID: 1285217025
+    locked: 0
+  - name: Unit
+    uniqueID: 1831991479
+    locked: 0
+  - name: SpriteEffect
+    uniqueID: 1713869791
+    locked: 0
+  - name: ParticleEffect
+    uniqueID: 1461060871
+    locked: 0
+  - name: DamageText
+    uniqueID: 2877981895
+    locked: 0

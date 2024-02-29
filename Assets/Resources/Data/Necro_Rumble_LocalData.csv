@@ -1,0 +1,224 @@
+LangCode	EN	KO	JA
+^text_title_btn_Start	Game Start	게임 시작	ゲーム開始
+^text_title_btn_Tutorial	Tutorial	튜토리얼	チュートリアル
+^text_title_btn_Keymap	Keymap	조작키	操作方法
+^text_title_btn_Settings	Settings	설정	設定
+^text_title_btn_Exit	Exit Game	게임 종료	ゲーム終了
+^text_title_panel_Loading	Loading...	로딩중...	ローディング中...
+			
+^text_panel_exp_Swordman	Warrior	해골 전사	スケルトン戦士
+^text_panel_exp_Archer	Archer	해골 궁수	スケルトン射手
+^text_panel_exp_Assassin	Ghost	악령	悪霊
+			
+^text_panel_info_Hp	Health	체력	体力
+^text_panel_info_Attack	Attack	공격력	攻撃力
+^text_panel_info_AttackSpeed	Attack Speed	공격속도	攻撃速度
+^text_panel_info_Lifesteal	Lifesteal(%)	흡혈(%)	吸血(%)
+^text_panel_info_MoveSpeed	Move Speed	이동속도	移動速度
+			
+^text_panel_device_Gamepad	Input device switched to Gamepad.	입력 장치가 게임패드로 변경되었습니다.	入力デバイスがゲームパッドに変更されました。
+^text_panel_device_Keyboard	Input device switched to Keyboard.	입력 장치가 키보드로 변경되었습니다.	入力デバイスがキーボードに変更されました。
+			
+^text_panel_keymap_Title	Keymap	조작키	操作方法
+^text_panel_keymap_btn_Close	Close	닫기	閉じる
+^text_panel_keymap_Keyboard	Keyboard	키보드	キーボード
+^text_panel_keymap_Gamepad	Gamepad	게임패드	ゲームパッド
+^text_panel_keymap_Move	Move	이동	移動
+^text_panel_keymap_move_Gamepad	LS	왼쪽 조이스틱	LS ( 左スティック)
+^text_panel_keymap_Attack	Attack	기본 공격	基本攻撃
+^text_panel_keymap_attack_Keyboard	LMB	마우스 좌클릭	左マウスボタン
+^text_panel_keymap_Aim	Aim	기본 공격 조준	狙い
+^text_panel_keymap_aim_Keyboard	Mouse Pointer	마우스 포인터	マウスポインター
+^text_panel_keymap_aim_Gamepad	RS	오른쪽 조이스틱	RS（右スティック）
+^text_panel_keymap_Revive	Revive	언데드 소환	蘇生
+^text_panel_keymap_revive_Keyboard	Space Bar	스페이스 바	スペースバー
+^text_panel_keymap_Harvest	Sacrifice	언데드 희생	犠牲
+^text_panel_keymap_harvest_Keyboard	RMB	마우스 우클릭	RMB（右マウスボタン）
+^text_panel_keymap_Recall	Recall	언데드 복귀 명령	呼び戻し
+^text_panel_keymap_Showhp	Always Show Unit Hp	유닛 Hp 항상 표시	ユニットのHPを常に表示
+^text_panel_keymap_showhp_Keyboard	Left Shift	왼쪽 Shift	左シフト
+^text_panel_keymap_Pause	Pause	일시정지	一時停止
+			
+^text_panel_character_Title	Select Character	캐릭터 선택	キャラクター選択
+^text_panel_difficulty	Difficulty Selection	난이도 선택	難易度選択
+^text_panel_difficultyDescription_1	 	 	 
+^text_panel_difficultyDescription_2	Enemy Attack <color=#FF2424>+25%</color>	적 공격력 <color=#FF2424>+25%</color>	敵 攻撃力<color=#FF2424>+25%</color>
+^text_panel_difficultyDescription_3	Elite Enemy Hp <color=#FF2424>+30%</color>	적 엘리트 체력 <color=#FF2424>+30%</color>	敵エリート体力<color=#FF2424>+30%</color>
+^text_panel_difficultyDescription_4	Enemy Hp <color=#FF2424>+20%</color>	적 체력 <color=#FF2424>+20%</color>	敵 体力<color=#FF2424>+20%</color>
+^text_panel_difficultyDescription_5	Enemy Movespeed <color=#FF2424>+20%</color>	적 이동속도 <color=#FF2424>+20%</color>	敵 移動速度 <color=#FF2424>+20%</color>
+^text_panel_character_old_Desc	Necro-Man have been persecuted by humans for centuries. \n\nGathering strength from the darkness, raise the dead, and lead his armies.	네크로-맨은 영겁의 세월 동안 인간들에게 핍박을 당하며 살아온 사령술사다. \n죽음의 마법을 사용한다는 이유 하나 때문에! \n\n네크로-맨은 더 이상 좌시하지 않기로 했다. \n어둠 속에서 나와 망자들을 일으켜 자신만의 군대를 만들 것이다.	ネクロマンサーは何世紀にもわたり人間たちに迫害されてきた。\n\n闇から力を集め、死者を蘇らせ、自分の軍を率いている。
+^text_panel_character_old_Stat	Health: 150 \nStarting maximum of undead: 3 \nExp gain per Sacrifice: 2 \n\n<color=#47C83E>Revive once when \ncritically damaged</color>	체력: 150 \n시작 언데드 최대치: 3 \n언데드 희생 시 경험치: 2 \n\n<color=#47C83E>치명상을 입었을 때 부활 1회</color>	体力: 150<br>\n開始アンデッド数: 3<br>アンデッド犠牲時の経験値: 2<br><br><color=#47C83E>重傷を負った時、<br>1回蘇生する</color>
+^text_panel_character_cute_Desc	Necnyan is a magic cat with ancient mysteries. \n\nShe communes with spirits wandering in the darkness. \nShe has a warm heart.	네크냥의 정체는 고대의 마법 고양이이다. \n\n아홉 목숨 중 여덟번의 죽음을 통해 죽음을 다스릴 수 있게 되었다. \n그녀는 자신을 마녀 사냥하려는 군단으로부터 살아남아 \n오랜 주인의 품으로 돌아가고자 한다.  	ネクニャンは古代の秘密を持つ魔法の猫です。\n\n暗闇で彷徨う霊と交流してきました。\n温かい心を持っています。
+^text_panel_character_cute_Stat	Health: 200 \nStarting maximum of undead: 2 \nExp gain per Sacrifice  : 2 \n\n<color=#FF2424>Maximum Undead cannot exceed 6. \n(NOT recommended for beginners.)</color> \n<color=#47C83E>Restores Undead with \nPrimary Attacks</color> \n<color=#47C83E>50% more Undead \nHealth and Attack </color>	체력: 200 \n시작 언데드 최대치: 2 \n언데드 희생 시 경험치: 2 \n\n<color=#47C83E>기본공격 시 언데드 치유</color> \n<color=#47C83E>언데드 체력, 공격력 50% 증가</color> \n<color=#FF2424>언데드 최대치는 6을 넘을 수 없다. \n(숙련자용 캐릭터.)</color> \n초과하는 언데드 최대치 업그레이드는 기본 공격의 회복량을 대폭 늘려준다. 	体力: 200\n開始アンデッド最大値:2\nアンデッド犠牲時の経験値:2\n\n<color=#47C83E>基本攻撃時アンデッド治癒</color>\n<color=#47C83E>アンデッド体力、攻撃力50%増加</color>\n<color=#FF2424>アンデッド最大値は6を超えることができない。 \n(熟練者向けキャラクター)</color> \n超過するアンデッド最大値アップグレードは基本攻撃の回復量を大幅に増やしてくれる。
+^text_panel_character_btn_Start	Start	게임 시작	ゲーム開始
+^text_panel_character_btn_Totitle	Return to Title	처음으로 돌아가기	タイトルに戻る
+			
+^text_panel_defeat_Title	Defeated..	패배..	敗北..
+^text_panel_defeat_btn_Restart	Restart	재시작	再開
+^text_panel_defeat_btn_Totitle	Return to Title	처음으로 돌아가기	タイトルに戻る
+			
+^text_panel_pause_Title	Paused	일시정지	一時停止
+^text_panel_pause_btn_Resume	Resume	게임 재개	ゲーム再開
+^text_panel_pause_btn_Restart	Restart	재시작	再開
+^text_panel_pause_btn_Keymap	Keymap	조작키	操作方法
+^text_panel_pause_btn_Settings	Settings	설정	設定
+^text_panel_pause_btn_Totitle	Return to Title	처음으로 돌아가기	タイトルに戻る
+			
+^text_panel_reward_Title	Treasure Found	보물상자 발견	宝箱発見
+^text_panel_reward_swordman_Title	Warrior Upgrade	해골 전사 레벨업	スケルトン戦士の強化
+^text_panel_reward_swordman_Prefix	Warrior: 	해골 전사: 	スケルトン戦士:
+^text_panel_reward_archer_Title	Archer Upgrade	해골 궁수 레벨업	スケルトン射手の強化
+^text_panel_reward_archer_Prefix	Archer: 	해골 궁수: 	スケルトン射手:
+^text_panel_reward_assassin_Title	Ghost Upgrade	악령 레벨업	悪霊の強化
+^text_panel_reward_assassin_Prefix	Ghost: 	악령: 	悪霊:
+			
+^text_panel_settings_Title	Settings	설정	設定
+^text_panel_settings_volume_Title	Volume	소리 설정	音量設定
+^text_panel_settings_volume_Master	Master	전체음	マスター
+^text_panel_settings_volume_Bgm	BGM	배경음	BGM
+^text_panel_settings_volume_Sfx	SFX	효과음	SFX
+^text_panel_settings_graphics_Title	Graphic	화면 설정	画面設定
+^text_panel_settings_graphics_Resolution	Resolution	해상도	解像度
+^text_panel_settings_graphics_Mode	ScreenMode	화면 모드	画面モード
+^text_panel_settings_btn_Close	Close	닫기	閉じる
+			
+^text_panel_win_Title	Survived!	승리!	生き残りました!
+^text_panel_win_btn_Totitle	Return to Title	처음으로 돌아가기	タイトルに戻る
+			
+^text_popup_levelUp	Level Up!	레벨 업!	レベルアップ!
+^text_popup_orb_Maxhp	Undead Max Health	언데드 최대 체력	アンデッドの最大体力
+^text_popup_orb_Attack	Undead Attack	언데드 공격력	アンデッドの攻撃力
+^text_popup_orb_AttackSpeed	Undead Attack Speed	언데드 공격 속도	アンデッドの攻撃速度
+^text_popup_skull_Maxnum	Max Undead +1	언데드 최대치 +1	最大のアンデッド +1
+^text_popup_skull_Heal	Healing Enhanced	언데드 힐 강화	ヒール強化
+^text_popup_skill_NotReady	The skill is not ready yet!	스킬이 아직 준비되지 않았습니다!	スキルがまだ用意されていません！
+^text_popup_skill_OutOfSkullNum	The number of undead has reached maximum!	언데드 수가 최대치에 도달했습니다!	アンデッドをこれ以上召喚することはできません！
+			
+^text_upgrade_artifact_blackGrimoire_name	Shattered Grimoire	찢겨진 흑마도서	ぼろぼろの魔道書
+^text_upgrade_artifact_blackGrimoire_desc	When acquired, double the maximun number of Undeads. (<color=#6AF85A>+{x}</color>) \n<color=#6AF85A>-50%</color><color=#D6D425>Undead Summon</color>Reuse latency \n<color=#F85A5A>-60%</color> Undead final physical strength (excluding special undead)	획득 순간의 최대 언데드 수를 두배로 만든다. (<color=#6AF85A>+{x}</color>) \n<color=#6AF85A>-50%</color><color=#D6D425>언데드 소환</color> 재사용 대기시간 \n<color=#F85A5A>-60%</color> 언데드 최종 체력 (특수 언데드 제외)	獲得瞬間の最大アンデッド数を2倍にする。 (<color=#6AF85A>+{x}</color>)
+ \n<color=#6AF85A>-50%</color><color=#D6D425>アンデッド召喚</color>再利用待機時間
+ \n<color=#F85A5A>-60%</color> アンデッド最終体力(特殊アンデッド除く)
+^text_upgrade_artifact_bloodyFang_name	Bloody Fang	피묻은 송곳니	血塗られた牙
+^text_upgrade_artifact_bloodyFang_desc	When Undead kill an enemy, recover <color=#6AF85A>20</color> health.	적을 처치한 언데드는 <color=#6AF85A>20</color>의 체력을 회복한다.	敵を処置したアンデッドは<color=#6AF85A>20</color>の体力を回復する。
+^text_upgrade_artifact_commandDark_name	Dark Command	어둠의 명령	闇の命令
+^text_upgrade_artifact_commandDark_desc	When <color=#D6D425>Recall</color>, all undeads become <color=#D6D425>Invincible</color> for <color=#6AF85A>5</color> seconds. (<color=#D6D425>30</color> seconds Cooldown)	<color=#D6D425>복귀 명령</color>시 모든 언데드 <color=#6AF85A>5</color>초간 <color=#D6D425>무적</color>. (효과 재사용 대기시간 <color=#D6D425>30</color>초)	<color=#D6D425>復帰命令</color>時、すべてのアンデッド<color=#6AF85A>5</color>秒間<color=#D6D425>無敵</color>。(効果再利用待機時間<color=#D6D425>30</color>秒)
+^text_upgrade_artifact_cursedSecond_name	Cursed Second	저주받은 초침	呪われた秒針
+^text_upgrade_artifact_cursedSecond_desc	When Undead <color=#D6D425>destroyed</color>, the cooldown for <color=#D6D425>Revive</color> is reduced by <color=#6AF85A>1</color> seconds.	언데드 <color=#D6D425>사망</color>시 <color=#D6D425>언데드 소환</color> 재사용 대기시간 <color=#6AF85A>1</color>초 감소	アンデッド<color=#D6D425>死亡</color>時<color=#D6D425>アンデッド召喚</color>再利用待機時間<color=#6AF85A>1</color>秒減少
+^text_upgrade_artifact_thornArmor_name	Spiked Armor	가시 갑옷	トゲ鎧
+^text_upgrade_artifact_thornArmor_desc	When Necromancer takes damage, return it to the target for <color=#D6D425>5x</color> damage. \n<color=#6AF85A>+50</color> Necromancer Health	네크로맨서가 피해를 입으면 적에게 <color=#D6D425>5배</color>로 돌려준다. \n<color=#6AF85A>+50</color> 네크로맨서 최대 체력	ネクロマンサーがダメージを受けると、それを対象に5倍のダメージを返します。\n<color=#6AF85A>+50</color> ネクロマンサーの最大体力
+^text_upgrade_artifact_deathWalker_name	Death Walker	칠흑을 걷는 자	闇を歩く者
+^text_upgrade_artifact_deathWalker_desc	Every time Necromancer moves, leaves a trail as move, dealing damage to enemies.	네크로맨서가 이동할 때마다 발자취를 남겨 적에게 피해를 입힌다.	移動するたびに、敵にダメージを与える軌跡を残します。
+^text_upgrade_artifact_ominousScarecrow_name	Ominous Scarecrow	불길한 허수아비	不気味なかかし
+^text_upgrade_artifact_ominousScarecrow_desc	If current undead population is less than <color=#D6D425>6</color>, the cooldown for <color=#D6D425>Revive</color> is reduced by <color=#6AF85A>30%</color>.	현재 언데드 개체수가 <color=#D6D425>6</color> 미만일 경우 <color=#D6D425>언데드 소환</color> 재사용 대기시간이 <color=#6AF85A>30%</color> 감소한다.	現在のアンデッド人口が6未満の場合、アンデッドの復活のクールダウンが<color=#6AF85A>30%</color>減少します。
+^text_upgrade_artifact_scarecrow_name	Scarecrow	밀짚 인형	かかし
+^text_upgrade_artifact_scarecrow_desc	When a Undead gets <color=#D6D425>destroyed</color>, it resurrects with <color=#6AF85A>20%</color> of health. (For Special Units, 10% of health.)	아군 언데드 <color=#D6D425>사망</color>시 <color=#6AF85A>20%</color> 의 체력으로 부활한다. (특수 유닛의 경우 10%로 부활)	味方アンデッド<color=#D6D425>死亡</color>時<color=#6AF85A>20%</color>の体力で復活する。 （特殊ユニットの場合は10%で復活）
+^text_upgrade_artifact_counterweight_name	Skull Counterweight	해골 무게추	骸骨の重り
+^text_upgrade_artifact_counterweight_desc	When <color=#D6D425>Recall</color>, undead stomp on enemies at the landing site and deal  <color=#6AF85A>100</color> damage.	<color=#D6D425>복귀 명령</color>시 언데드들이 도착지점에 있는 적을 깔아뭉개  <color=#6AF85A>100</color>의 피해를 입힌다.	<color=#D6D425>復帰命令</color> シアンデッドが到着地点にいる敵を敷物<color=#6AF85A>100</color>の被害を与える。
+^text_upgrade_artifact_soulWhip_name	Soul Whip	영혼 채찍	魂の鞭
+^text_upgrade_artifact_soulWhip_desc	Necromancer can also deal <color=#F85A5A>30</color> damage to Undead with its attack. Hit Undead gains <color=#6AF85A>60%</color> Attack Speed for <color=#D6D425>3</color> seconds.	해골 발사로 아군 언데드에게도 <color=#F85A5A>30</color>의 피해를 입힐 수 있다. 해골 발사에 피해 입은 언데드는 <color=#D6D425>3초간</color> 공격속도가 <color=#6AF85A>60%</color> 상승한다.	ネクロマンサーは攻撃によってアンデッドにも<color=#6AF85A>30</color>のダメージを与えることができます。攻撃を受けたアンデッドは<color=#6AF85A>3秒間</color>、攻撃速度が<color=#6AF85A>60%</color>増加します。
+^text_upgrade_artifact_undeadBomb_name	Undead Bomb	언데드 폭탄	アンデッド爆弾
+^text_upgrade_artifact_undeadBomb_desc	When Undead gets <color=#D6D425>destroyed</color>, explode and deals <color=#6AF85A>75</color> damage to nearby enemies.	언데드 <color=#D6D425>사망 시</color> 폭발하며 주변의 적에게 <color=#6AF85A>75</color>의 피해를 입힌다.	アンデッド <color=#D6D425> 死亡時</color> 時に爆発し、周辺の敵に<color=#6AF85A>75</color>の被害を与える。
+^text_upgrade_artifact_promotion_name	Promotion	언데드 승급	アンデッド昇格
+^text_upgrade_artifact_promotion_desc	When Undead survives for more than <color=#D6D425>1</color> minutes, both Health and Attack increase by <color=#6AF85A>40%</color>. ( <color=#6AF85A>20%</color> for special Undead)	언데드가 <color=#D6D425>1</color>분 이상 생존시 체력과 공격력이 모두 <color=#6AF85A>40%</color> 증가한다. (특수 언데드의 경우  <color=#6AF85A>20%</color>)	アンデッドが<color=#6AF85A>1</color>分以上生存すると、体力と攻撃力が両方とも<color=#6AF85A>40%</color>増加します（特殊な場合は<color=#6AF85A>20%</color>）。
+^text_upgrade_artifact_veilOfNight_name	Veil Of Night	밤의 장막	夜のベール
+^text_upgrade_artifact_veilOfNight_desc	When <color=#D6D425>Revive</color>, Undead become <color=#D6D425>Invincible</color> for <color=#6AF85A>6</color> seconds.	<color=#D6D425>언데드 소환</color>시 <color=#6AF85A>6</color>초간 <color=#D6D425>무적 </color>상태가 된다.	<color=#D6D425>アンデッド召喚</color>時<color=#6AF85A>6</color>秒間<color=#D6D425>無敵</color>状態となる。
+			
+^text_upgrade_unit_betterCurse_name	Pure Hatred	순수한 살의	純粋な呪い"
+^text_upgrade_unit_betterCurse_desc	<color=#6AF85A>+5%</color> Attack \n<color=#6AF85A>+5%</color> Attack Speed \n<color=#6AF85A>+5%</color> Health	<color=#6AF85A>+5%</color> 공격력 \n<color=#6AF85A>+5%</color> 공격 속도 \n<color=#6AF85A>+5%</color> 체력	<color=#6AF85A>+5%</color> 攻撃力\n<color=#6AF85A>+5%</color> 攻撃速度\n<color=#6AF85A>+5%</color> 体力
+^text_upgrade_unit_blossomedHatred_name	Blossomed Hatred	피어난 증오심	開花した憎しみ
+^text_upgrade_unit_blossomedHatred_desc	After <color=#D6D425>Revive</color>, \n<color=#6AF85A>+30%</color> Attack for <color=#D6D425>6</color> seconds	언데드 <color=#D6D425>소환</color>시  <color=#D6D425>6</color>초간 <color=#6AF85A>+30%</color> 공격력	召喚時、6秒間 <color=#6AF85A>+30%</color> 攻撃力
+^text_upgrade_unit_curseofSwamp_name	Curse of Swamp	늪의 저주	沼地の呪い
+^text_upgrade_unit_curseofSwamp_desc	<color=#6AF85A>+22%</color> Damage \n<color=#F85A5A>-4%</color> Move Speed	<color=#6AF85A>+22%</color> 피해량 \n<color=#F85A5A>-4%</color> 이동속도	<color=#6AF85A>+22%</color> ダメージ \n<color=#F85A5A>-4%</color> 移動速度
+^text_upgrade_unit_falseHeart_name	False Heart	거짓된 심장	偽りの心臓
+^text_upgrade_unit_falseHeart_desc	<color=#6AF85A>+20%</color> Health 	<color=#6AF85A>+20%</color> 체력 	<color=#6AF85A>+20%</color> 体力
+^text_upgrade_unit_heavyWeapon_name	Heavy Weapon	묵직한 한방	重厚な一撃
+^text_upgrade_unit_heavyWeapon_desc	<color=#6AF85A>+25%</color> Damage \n<color=#F85A5A>-6%</color> Attack Speed 	<color=#6AF85A>+25%</color> 피해량 \n<color=#F85A5A>-6%</color> 공격 속도 	<color=#6AF85A>+25%</color> ダメージ\n<color=#F85A5A>-6%</color> 攻撃速度
+^text_upgrade_unit_hunger_name	Hunger	허기짐	空腹感
+^text_upgrade_unit_hunger_desc	<color=#6AF85A>+15%</color> Lifesteal	<color=#6AF85A>+15%</color> 흡혈 	<color=#6AF85A>+15%</color> 吸血
+^text_upgrade_unit_huntingDog_name	Hunting Dog	사냥개	猟犬
+^text_upgrade_unit_huntingDog_desc	After <color=#D6D425>Revive</color>, \n<color=#6AF85A>+30%</color> Move Speed \n<color=#6AF85A>+20% </color> Attack for <color=#D6D425>6</color> seconds	언데드 <color=#D6D425>소환</color>시 <color=#D6D425>6</color>초간 \n<color=#6AF85A>+30%</color> 이동 속도 \n<color=#6AF85A>+20% </color> 공격력	召喚時、6秒間\n<color=#6AF85A>+30%</color> 移動速度\n<color=#6AF85A>+20%</color> 攻撃力
+^text_upgrade_unit_rottenShield_name	Rotten Shield	녹슨 방패	腐った盾
+^text_upgrade_unit_rottenShield_desc	<color=#6AF85A>+24%</color> Health \n<color=#F85A5A>-6%</color> Attack	<color=#6AF85A>+24%</color> 체력 \n<color=#F85A5A>-6%</color> 공격력 	<color=#6AF85A>+24%</color> 体力\n<color=#F85A5A>-6%</color> 攻撃力
+^text_upgrade_unit_suspiciousContract_name	Suspicious Contract	의심스러운 계약	疑わしい契約
+^text_upgrade_unit_suspiciousContract_desc	<color=#6AF85A>+24%</color> Attack Speed \n<color=#F85A5A>-6%</color> Health	<color=#6AF85A>+24%</color> 공격 속도 \n<color=#F85A5A>-6%</color> 체력	<color=#6AF85A>+24%</color> 攻撃速度\n<color=#F85A5A>-6%</color> 体力
+^text_upgrade_unit_swiftAttack_name	Swift Attack	신속한 타격	迅速な攻撃
+^text_upgrade_unit_swiftAttack_desc	<color=#6AF85A>+17%</color> Attack Speed	<color=#6AF85A>+17%</color> 공격 속도	<color=#6AF85A>+17%</color> 攻撃速度
+^text_upgrade_unit_watchingEyes_name	Watching Eyes	지켜보는 눈	見ている目
+^text_upgrade_unit_watchingEyes_desc	After <color=#D6D425>Recall</color>, \n<color=#6AF85A>+40%</color> Attack Speed for <color=#D6D425>2</color> seconds 	<color=#D6D425>복귀 명령</color>시 <color=#D6D425>2</color> 초간 \n<color=#6AF85A>+40%</color> 공격 속도 	復帰時, 2秒間\n<color=#6AF85A>+40%</color> 攻撃速度
+			
+^text_upgrade_swordman_bloodThirst_level1_name	Blood Thirst	피의 갈망	血の渇望
+^text_upgrade_swordman_bloodThirst_level1_desc	As the skeleton warrior's health decreases,  \nit gains a lifesteal effect of up to <color=#6AF85A>50%</color>.	해골 전사의 체력이 낮아질수록 \n최대 <color=#6AF85A>50%</color>의 흡혈 효과를 얻는다.	骸骨戦士の体力が低くなるほど
+ \n最大<color=#6AF85A>50%</color>の吸血効果を得る。
+^text_upgrade_swordman_bloodThirst_level2_name	Blood Magic		血の魔法
+^text_upgrade_swordman_bloodThirst_level2_desc	All healing effects Skeleton Warriors get are <color=#6AF85A>25%</color> enhanced.	해골 전사가 받는 모든 회복 효과가  <color=#6AF85A>25%</color> 향상된다.	スケルトン戦士は受ける回復効果が25%増加します。
+^text_upgrade_swordman_furyHeart_level1_name	Berserker Stance	광전사의 태세	狂戦士の構え
+^text_upgrade_swordman_furyHeart_level1_desc	As the skeleton warrior's health decreases, \nit gains additional attack speed of up to <color=#6AF85A>50%</color>.	해골 전사의 체력이 낮아질수록 \n최대 <color=#6AF85A>50%</color>의 추가 공격 속도를 얻는다.	骸骨戦士の体力が低くなるほど \n最大<color=#6AF85A>50%</color>の追加攻撃速度を得る。
+^text_upgrade_swordman_furyHeart_level2_name	Berserker Frenzy	광전사의 광란	狂戦士の狂乱
+^text_upgrade_swordman_furyHeart_level2_desc	Just before a skeleton warrior's death, it becomes <color=#D6D425>invincible</color> for <color=#6AF85A>4</color> seconds.	해골 전사가 사망하기 직전, <color=#6AF85A>4</color>초간 <color=#D6D425>무적</color> 상태가 된다.	骸骨戦士が死亡する直前、<color=#6AF85A>4</color>秒間<color=#D6D425>無敵</color>状態となる。
+^text_upgrade_swordman_giant_level1_name	Giant Bones	거인의 뼈	巨人の骨
+^text_upgrade_swordman_giant_level1_desc	When you <color=#D6D425>Revive</color> Skeleton Warrior, it has a chance to become a Giant Skeleton with <color=#6AF85A>300%</color> health.	해골 전사 <color=#D6D425>소환</color>시 확률적으로 <color=#6AF85A>300%</color>의 체력을 가진 거대 해골 전사가 된다.	スケルトン戦士を召喚する際、確率的に<color=#6AF85A>300%</color>の体力を持つ巨大スケルトン戦士になる。
+^text_upgrade_swordman_giant_level2_name	Giant Shield	거인의 방패	巨人の盾
+^text_upgrade_swordman_giant_level2_desc	Giant Skeleton Warrior and all Undeads in its area take <color=#6AF85A>35%</color> less damage.	거대 해골 전사와 그 주변의 모든 언데드의 받는 피해 <color=#6AF85A>35%</color> 감소.	巨大なスケルトン戦士とその周囲のすべてのアンデッドユニットが受けるダメージが35%減少する。
+^text_upgrade_swordman_guardDuty_level1_name	Creator's Protection	창조자의 보호	創造主の保護
+^text_upgrade_swordman_guardDuty_level1_desc	Skeleton Warriors take <color=#6AF85A>40%</color> less damage when near Necromancer.	해골 전사가 네크로맨서 주변에 있으면 피해를 <color=#6AF85A>40%</color> 덜 받는다.	骸骨戦士がネクロマンサー周辺にいると被害を<color=#6AF85A>40%</color>少なく受ける。
+^text_upgrade_swordman_guardDuty_level2_name	Bodyguards	호위병사	護衛兵士
+^text_upgrade_swordman_guardDuty_level2_desc	Each Skeleton Warrior near the Necromancer takes <color=#6AF85A>3%</color> of the damage Necromancer take.	네크로맨서 주변의 해골 전사 하나마다 플레이어가 받는 피해의 <color=#6AF85A>3%</color>를 대신 입는다.	ネクロマンサーの近くにいるスケルトン戦士は、彼らが受けるダメージの<color=#6AF85A>3%</color>を受けます。
+^text_upgrade_swordman_immortalWarrior_level1_name	Rapid Summon	빠른 소환	迅速な召喚
+^text_upgrade_swordman_immortalWarrior_level1_desc	When <color=#D6D425>Revive</color> Skeleton Warrior, regain <color=#6AF85A>1</color> second of the cooldown of <color=#D6D425>Revive</color>.	해골 전사 <color=#D6D425>소환</color>시 <color=#D6D425>'언데드 소환' </color>재사용 대기시간을 <color=#6AF85A>1</color>초 돌려받는다.	スケルトン戦士を復活させると、'アンデッド召喚'のクールダウン時間が<color=#6AF85A>1</color>秒回復します。
+^text_upgrade_swordman_immortalWarrior_level2_name	Soul Drain	영혼 흡수	魂吸収
+^text_upgrade_swordman_immortalWarrior_level2_desc	When Skeleton Warrior <color=#D6D425>destroyed</color>, heals Necromancer for <color=#6AF85A>3</color>.	해골 전사 <color=#D6D425>파괴</color>시 네크로맨서의 체력을 <color=#6AF85A>3</color> 회복시킨다.	スケルトン戦士が破壊されたとき、ネクロマンサーのHPを<color=#6AF85A>3</color>回復します。
+^text_upgrade_swordman_stunningAttack_level1_name	Lightning Strike	번개 강타	稲妻の一撃
+^text_upgrade_swordman_stunningAttack_level1_desc	Skeleton Warrior's attack <color=#D6D425>Stun</color> enemy for <color=#6AF85A>2</color> seconds once every <color=#D6D425>4</color> times.	해골 전사의 공격이 <color=#D6D425>4</color>번마다 한 번 적을 <color=#6AF85A>2</color>초간 <color=#D6D425>기절</color> 시킨다.	スケルトン戦士の攻撃は、<color=#D6D425>4</color>回に1回、敵を<color=#6AF85A>2</color>秒間気絶させます。
+^text_upgrade_swordman_stunningAttack_level2_name	Guardian Strike	수호의 일격	守護者の一撃
+^text_upgrade_swordman_stunningAttack_level2_desc	After <color=#D6D425>Recall</color>, Skeleton Warrior's first attack <color=#D6D425>Stun</color> enemy for <color=#6AF85A>4</color> seconds.	<color=#D6D425>복귀 명령</color>후 해골 전사의 첫 공격은 적을 <color=#6AF85A>4</color>초간 <color=#D6D425>기절</color> 시킨다.	呼び戻し後、スケルトン戦士の最初の攻撃が敵を<color=#6AF85A>4</color>秒間気絶させます。
+			
+^text_upgrade_archer_additionalHit_level1_name	Flash Hit	섬광 타격	閃光打撃
+^text_upgrade_archer_additionalHit_level1_desc	Give an additional <color=#D6D425>10</color> true damage per hit. \n<color=#6AF85A>+25%</color> Attack Speed \n<color=#F85A5A>-30%</color> Attack	타격마다 <color=#D6D425>25</color>의 고정 피해를 추가로 입힌다. \n<color=#6AF85A>+25%</color> 공격속도 \n<color=#F85A5A>-30%</color> 공격력	打撃ごとに<color=#D6D425>25</color>の固定被害を追加で与える。
+ \n<color=#6AF85A>+25%</color> 攻撃速度
+ \n<color=#F85A5A>-30%</color> 攻撃力
+^text_upgrade_archer_additionalHit_level2_name	Thunder Strike	천둥의 일격	雷の一撃
+^text_upgrade_archer_additionalHit_level2_desc	Increase the additional true damage of <color=#D6D425>'Flash Hit'</color> to <color=#6AF85A>100</color>.	<color=#D6D425>'섬광 타격'</color>의 추가 고정 피해량이 <color=#6AF85A>100</color> 으로 증가한다.	<color=#D6D425>「閃光打撃」</color>の追加固定被害量が<color=#6AF85A>100</color>に増加する。
+^text_upgrade_archer_blackArrow_level1_name	Dark Arrow	칠흑의 화살	闇の矢
+^text_upgrade_archer_blackArrow_level1_desc	Every <color=#D6D425>5</color> seconds, fire a black arrow \n and deals <color=#6AF85A>3</color> times as normal attack. \n <color=#F85A5A>-20%</color> Attack Speed	<color=#D6D425>5</color>초마다 <color=#6AF85A>3</color>배의 피해를 주는 검은 화살을 대신 발사한다. \n<color=#F85A5A>공격 속도 -20%</color>	5秒ごとに、通常攻撃の<color=#6AF85A>3</color>倍のダメージを与える黒い矢を発射する。\n<color=#F85A5A>攻撃速度 -20%</color>
+^text_upgrade_archer_blackArrow_level2_name	Doom	파멸	破滅
+^text_upgrade_archer_blackArrow_level2_desc	<color=#6AF85A>All arrows become black arrows.</color> \nThe black arrow damages <color=#6AF85A>5</color> times.\n<color=#F85A5A>attack speed -20%</color>	<color=#6AF85A>모든 화살이 검은 화살이 된다.</color> \n검은 화살은 <color=#6AF85A>5</color>배의 피해를 준다. \n<color=#F85A5A>공격 속도 -20%</color>	<color=#6AF85A>すべての矢が黒い矢になる。</color>\n黒い矢は<color=#6AF85A>5</color>船の被害を与える。\n<color=#F85A5A>攻撃速度 -20%</color>
+^text_upgrade_archer_combatTraining_level1_name	Combat Training	전투 훈련	戦闘訓練
+^text_upgrade_archer_combatTraining_level1_desc	Every time a Skeleton Archer kills an enemy, the Attack of all Skeleton Archers increases by <color=#6AF85A>1%</color>.	해골 궁수가 적을 처치할 때마다 모든 해골 궁수의 공격력이 <color=#6AF85A>1%</color> 증가한다.	スケルトン射手が敵を倒すたびに、すべてのスケルトン射手の<color=#D6D425>攻撃力</color>が<color=#6AF85A>1%</color>増加します。
+^text_upgrade_archer_combatTraining_level2_name	Immortal Teachings	불멸의 교본	不死の教え
+^text_upgrade_archer_combatTraining_level2_desc	Gain attack equal to extra <color=#6AF85A>Attack</color> you have gained from <color=#D6D425>'Combat Training'</color>. (<color=#6AF85A>+{x}%</color>)	<color=#D6D425>'전투 훈련'</color>으로 지금까지 얻은 <color=#6AF85A>추가 공격력</color>만큼 공격력을 얻는다. (<color=#6AF85A>+{x}%</color>)	<color=#6AF85A>'戦闘訓練'</color>でこれまでに得た<color=#D6D425>追加攻撃力</color>と同等の攻撃力を得る。(<color=#6AF85A>+{x}%</color>)
+^text_upgrade_archer_heavyAttack_level1_name	Heavy Attack	파괴의 일격	破壊の一撃
+^text_upgrade_archer_heavyAttack_level1_desc	<color=#6AF85A>+60%</color>Damage \n<color=#F85A5A>-20%</color>Attack Speed	<color=#6AF85A>+60%</color> 최종 피해량 \n<color=#F85A5A>-20%</color> 최종 공격속도	<color=#6AF85A>+60%</color> 最終ダメージ\n<color=#F85A5A>-20%</color> 最終攻撃速度
+^text_upgrade_archer_heavyAttack_level2_name	Slowdown Arrow	둔화의 화살	鈍化の矢
+^text_upgrade_archer_heavyAttack_level2_desc	Skeleton Archer's attacks slow enemies by <color=#6AF85A>70%</color> for <color=#D6D425>3</color> seconds. \n<color=#6AF85A>+100%</color> Range	해골 궁수의 화살이 적을 <color=#D6D425>3</color>초간 <color=#6AF85A>80%</color> 둔화시킨다. \n<color=#6AF85A>+100%</color> 사거리	スケルトン射手の攻撃は、敵を<color=#6AF85A>3</color>秒間<color=#6AF85A>70%</color>減速させる。\n<color=#6AF85A>+100%</color> 射程距
+^text_upgrade_archer_multiShot_level1_name	Double Shot	이중 타격	ダブルアタック
+^text_upgrade_archer_multiShot_level1_desc	Skeleton Archer can attack <color=#6AF85A>2</color> enemies at once. \n<color=#F85A5A>-20%</color> Final Damage	해골 궁수가 최대 <color=#6AF85A>2</color> 명의 적을 동시에 공격할 수 있다. \n<color=#F85A5A>-20%</color> 최종 피해량	骸骨弓手が最大<color=#6AF85A>2</color>名の敵を同時に攻撃できる。
+ \n<color=#F85A5A>-20%</color>最終被害量
+^text_upgrade_archer_multiShot_level2_name	Triple Strike	삼중 폭격	トリプルストライク
+^text_upgrade_archer_multiShot_level2_desc	Skeleton Archer can attack <color=#6AF85A>3</color> enemies at once.	해골 궁수가 최대 <color=#6AF85A>3</color> 명의 적을 동시에 공격할 수 있다.	スケルトン射手は一度に最大3体の敵を攻撃できる。
+^text_upgrade_archer_poisonArrow_level1_name	Poison Arrow	독성 화살	毒矢
+^text_upgrade_archer_poisonArrow_level1_desc	Fires a poison arrow deals damage <color=#6AF85A>28%</color> of the enemy's maximum health over <color=#D6D425>4</color> seconds. (<color=#6AF85A>7%</color> damage for Special Units)	독화살을 발사해 <color=#D6D425>4</color>초에 걸쳐 적 최대체력의 <color=#6AF85A>28%</color>에 달하는 피해를 입힌다. (특수 유닛일 경우 <color=#6AF85A>7%</color> 의 피해)	毒矢を放ち、<color=#6AF85A>4</color>秒間に敵の最大HPの<color=#6AF85A>28%</color>に相当するダメージを与える。（特別なユニットには7%のダメージ）
+^text_upgrade_archer_rapidShot_level1_name	Rapid Shot	신속 타격	迅速な攻撃
+^text_upgrade_archer_rapidShot_level1_desc	Every <color=#D6D425>6</color> attack, Attack Speed increased by <color=#6AF85A>50%</color> for <color=#D6D425>2</color> seconds. \n<color=#F85A5A>-10%</color> Attack	<color=#D6D425>6</color>번 공격할 때마다 <color=#D6D425>2</color>초간 공격 속도가 <color=#6AF85A>50%</color> 증가한다. \n<color=#F85A5A>-10%</color> 공격력	<color=#6AF85A>6</color>回の攻撃ごとに、<color=#6AF85A>2</color>秒間攻撃速度が<color=#6AF85A>50%</color>増加する。\n<color=#F85A5A>-10%</color> 攻撃力
+^text_upgrade_archer_thirdHit_level1_name	Armor Piercing	갑옷 뚫기	装甲貫通
+^text_upgrade_archer_thirdHit_level1_desc	Every <color=#D6D425>3</color> times hit a single unit, deal <color=#6AF85A>30%</color> of target's current health as bonus damage. (<color=#6AF85A>15%</color> for special Units)	해골 궁수가 하나의 유닛을 <color=#6AF85A>3</color>번 타격할때마다 해당 유닛 현재 체력의 <color=#6AF85A>30%</color>만큼 추가 피해를 입힙니다. (특수 유닛의 경우 <color=#6AF85A>15%</color>)	スケルトン射手が単一ユニットに<color=#6AF85A>3</color>回攻撃するごとに、対象の現在のHPの<color=#6AF85A>30%</color>に相当するボーナスダメージを与える。（特殊ユニットには15%）
+			
+^text_upgrade_assassin_fearofBlood_level1_name	Bloody Horror	핏빛 공포	血の恐怖
+^text_upgrade_assassin_fearofBlood_level1_desc	 When Ghost kills enemy, inflicts <color=#6AF85A>0.3</color> seconds of <color=#D6D425>Fear</color> to nearby enemies. \n<color=#F85A5A>-20</color> Health	악령이 적 처치시 주변의 적에게 <color=#6AF85A>0.4</color>초간 <color=#D6D425>공포</color> 부여. \n<color=#F85A5A>-12%</color> 체력	悪霊が敵を倒したとき、近くの敵に<color=#6AF85A>0.3</color>秒間の恐怖を与える。\n<color=#F85A5A>-20</color> 最大HP
+^text_upgrade_assassin_fearofBlood_level2_name	Dark Whisper	어둠의 속삭임	闇のささやき
+^text_upgrade_assassin_fearofBlood_level2_desc	Ghost deals <color=#6AF85A>2</color> times damage to <color=#D6D425>Feared</color> enemies.	악령이 <color=#D6D425>공포</color> 상태의 적에게 <color=#6AF85A>2</color>배의 피해를 가한다.	悪霊は恐怖状態の敵に<color=#6AF85A>2</color>倍のダメージを与える。
+^text_upgrade_assassin_ghostStep_level1_name	Ghost Step	악령의 움직임	幽霊の動き
+^text_upgrade_assassin_ghostStep_level1_desc	Every <color=#D6D425>13</color>seconds, Ghost enters an incorporeal state for <color=#D6D425>3</color> seconds, Inflicts <color=#D6D425>Fear</color> on nearby enemies for <color=#6AF85A>2</color> seconds. \n<color=#6AF85A>+20%</color> Movement Speed.	<color=#D6D425>13</color>초 마다 유체화 상태에 <color=#D6D425>3</color>초간 돌입한다. \n이동속도가 <color=#6AF85A>20%</color> 증가하며 주변 적에게 <color=#D6D425>공포</color> 를 <color=#6AF85A>2</color>초간 부여한다.	13秒ごとに、悪霊は<color=#6AF85A>3</color>秒間の無体化状態に入る。\nその持続時間中、移動速度が<color=#6AF85A>+20%</color>増加し、近くの敵に<color=#6AF85A>2</color>秒間の恐怖を与える。無体化状態では攻撃することができない。
+^text_upgrade_assassin_ghostStep_level2_name	Horrible Nightmare	끔찍한 악몽	恐ろしい悪夢
+^text_upgrade_assassin_ghostStep_level2_desc	Increase the duration of <color=#D6D425>Fear</color> by <color=#6AF85A>0.5</color> seconds.	적의 <color=#D6D425>공포</color> 지속시간이 <color=#6AF85A>0.5</color> 초 증가한다.	敵が受けるすべての恐怖状態の持続時間が<color=#6AF85A>0.5</color>秒延長される。
+^text_upgrade_assassin_hiddenBlade_level1_name	Hidden Blade	숨겨진 칼날	隠し刃
+^text_upgrade_assassin_hiddenBlade_level1_desc	Ghost attacks  <color=#6AF85A>1</color> more time immediately after its first attack. This reapplies when enemy is killed. \n<color=#F85A5A>-10</color> Health	악령이 첫 공격시 곧바로 <color=#6AF85A>1</color> 번 더 공격한다. 이 효과는 적을 처치하면 다시 적용된다. \n<color=#F85A5A>-8%</color> 체력	悪霊は最初の攻撃時にすぐにもう一度攻撃する。この効果は敵を倒すと再び適用される\n<color=#F85A5A>-10</color> 最大HP
+^text_upgrade_assassin_hiddenBlade_level2_name	Hidden Dagger	숨겨진 비수	隠し短剣
+^text_upgrade_assassin_hiddenBlade_level2_desc	The effect of <color=#D6D425>'Hidden Blade'</color> strikes <color=#6AF85A>3</color> times.	<color=#D6D425>'숨겨진 칼날'</color> 의 효과가 두 번 연달아 공격하는 대신 총 <color=#6AF85A>3</color> 번 공격한다.	<color=#D6D425>隠し刃</color>の効果が2回連続で攻撃する代わりに、合計<color=#6AF85A>3回</color>攻撃する。
+^text_upgrade_assassin_lapel_level1_name	Lapel Of NightMare	악몽의 옷깃	悪夢の襟
+^text_upgrade_assassin_lapel_level1_desc	When Ghost takes a hit, the target has a <color=#D6D425>60%</color> chance to be inflicted <color=#D6D425>Fear</color> for <color=#6AF85A>2</color> second. \n<color=#6AF85A>+20%</color> Health, <color=#F85A5A>-30%</color> Attack Speed	악령이 공격받으면 공격자는 <color=#D6D425>60%</color> 확률로 <color=#6AF85A>2</color>초간 <color=#D6D425>공포</color>에 빠진다. \n<color=#6AF85A>+20%</color> 체력 \n<color=#F85A5A>-30%</color> 공격속도	悪霊が攻撃を受けたとき、攻撃者は60%の確率で2秒間恐怖に陥る。\n<color=#6AF85A>+20%</color> HP \n<color=#F85A5A>-30%</color> 攻撃速度
+^text_upgrade_assassin_lapel_level2_name	Absorbing Nightmare	악몽 흡수	悪夢吸収
+^text_upgrade_assassin_lapel_level2_desc	When Ghost inflicts <color=#D6D425>Fear</color> on enemy, it heals <color=#6AF85A>20</color> Health. \n<color=#F85A5A>-13%</color> Attack Speed	악령이 적에게 <color=#D6D425>공포</color>를 부여할 때마다 체력 <color=#6AF85A>20</color> 회복. \n<color=#F85A5A>-13%</color> 공격속도	悪霊が敵に恐怖を与えるたびに、HPを<color=#6AF85A>20</color>回復する。\n<color=#F85A5A>-13%</color> 攻撃速度
+^text_upgrade_assassin_soulDash_level1_name	Soul Dash	영혼 복귀	魂ダッシュ
+^text_upgrade_assassin_soulDash_level1_desc	Ghost deals <color=#6AF85A>Attack </color>damage and inflict <color=#D6D425>Fear</color> for <color=#D6D425>2</color> seconds to all enemies it touches during <color=#D6D425>Return</color>.	악령이 <color=#D6D425>복귀 명령</color> 도중 충돌하는 모든 유닛에게 <color=#6AF85A>공격력</color>만큼 피해를 입히고 <color=#D6D425>공포</color> 를 <color=#6AF85A>2</color>초간 부여한다.	悪霊が呼び戻し中に衝突するすべてのユニットに<color=#6AF85A>攻撃力</color>相当のダメージを与え、<color=#6AF85A>2</color>秒間恐怖を与える。
+^text_upgrade_assassin_soulDash_level2_name	Death Order	죽은 왕의 명령	死んだ王の命令
+^text_upgrade_assassin_soulDash_level2_desc	After <color=#D6D425>Recall</color>, Ghost's Movement Speed increases by <color=#6AF85A>50%</color> before its first attack. <color=#6AF85A>-2</color> Return cooldown	악령이 <color=#D6D425>복귀 명령</color>후 첫 공격을 하기 전까지 이동 속도가 <color=#6AF85A>50%</color> 증가한다. \n<color=#6AF85A>-2</color> 복귀 쿨타임	悪霊が呼び戻し後、最初の攻撃をするまでの間、移動速度が<color=#6AF85A>50%</color>増加する。\n<color=#6AF85A>-2</color> 呼び戻しのクールダウン

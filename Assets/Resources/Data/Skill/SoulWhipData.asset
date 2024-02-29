@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4d365017398776409967029a8839aed, type: 3}
+  m_Name: SoulWhipData
+  m_EditorClassIdentifier: 
+  _id: 20
+  _name: SoulWhip
+  _skillGrade: 5
+  _skillDataList:
+  - _iconSprite: {fileID: 21300000, guid: 84bd2f64a116edc44b60935a0120b58d, type: 3}
+    _displayName: ^text_upgrade_artifact_soulWhip_name
+    _textColor: {r: 0.41430968, g: 0.972549, b: 0.3529412, a: 1}
+    _description: ^text_upgrade_artifact_soulWhip_desc
+    _cooldown: 0
+    unitType: 0
+  undeadDealtDamage: 30
+  attackSpeedIncreaseDuration: 3
+  attackSpeedIncreaseRatio: 60

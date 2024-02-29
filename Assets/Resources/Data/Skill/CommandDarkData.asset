@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15aaeb55cb34bba498ef305d0a2d59a0, type: 3}
+  m_Name: CommandDarkData
+  m_EditorClassIdentifier: 
+  _id: 21
+  _name: CommandDark
+  _skillGrade: 5
+  _skillDataList:
+  - _iconSprite: {fileID: 21300000, guid: f8aa2e141aaa748478778ac97d117147, type: 3}
+    _displayName: ^text_upgrade_artifact_commandDark_name
+    _textColor: {r: 0.8396226, g: 0.8332348, b: 0.14653791, a: 1}
+    _description: ^text_upgrade_artifact_commandDark_desc
+    _cooldown: 30
+    unitType: 0
+  invinDuration: 5

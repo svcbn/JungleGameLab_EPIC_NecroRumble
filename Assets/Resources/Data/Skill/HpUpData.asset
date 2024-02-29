@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a3a9ec80e973a44c989527f9f9f9569, type: 3}
+  m_Name: HpUpData
+  m_EditorClassIdentifier: 
+  _id: 18
+  _name: MaxHpUp
+  _skillGrade: 5
+  _skillDataList:
+  - _iconSprite: {fileID: 21300000, guid: a33dcfe241025d94195ff8880f9c484c, type: 3}
+    _displayName: ^text_upgrade_artifact_thornArmor_name
+    _textColor: {r: 0.41430968, g: 0.972549, b: 0.3529412, a: 1}
+    _description: ^text_upgrade_artifact_thornArmor_desc
+    _cooldown: 0
+    unitType: 0
+  increaseMaxHp: 50
+  increaseMaxHp2: -99

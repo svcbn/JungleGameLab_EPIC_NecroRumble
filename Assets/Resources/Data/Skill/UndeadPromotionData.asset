@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78a0584c4f68fa94cb140f3a0bbda11b, type: 3}
+  m_Name: UndeadPromotionData
+  m_EditorClassIdentifier: 
+  _id: 23
+  _name: UndeadPromotion
+  _skillGrade: 5
+  _skillDataList:
+  - _iconSprite: {fileID: 21300000, guid: 15789ebfd9384b84fa1ef71e599b1ca3, type: 3}
+    _displayName: ^text_upgrade_artifact_promotion_name
+    _textColor: {r: 0.41430968, g: 0.972549, b: 0.3529412, a: 1}
+    _description: ^text_upgrade_artifact_promotion_desc
+    _cooldown: 0
+    unitType: 0
+  maxStackCount: 1
+  statIncreaseValue: 40
+  eliteStatIncreaseValue: 20
+  promotionDeltaTimeSecond: 60

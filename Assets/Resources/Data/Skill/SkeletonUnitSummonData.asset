@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79d50d82a9c16a646a2f2d627eed5294, type: 3}
+  m_Name: SkeletonUnitSummonData
+  m_EditorClassIdentifier: 
+  _iconSprite: {fileID: 21300000, guid: 440360292f0613d4eaec15ffea094efe, type: 3}
+  _id: 16
+  _skillGrade: -99
+  _name: Summon_Skeleton
+  _displayName: Placeholder
+  _description: Placeholder
+  _cooldown: 0
+  unitType: 16
+  remainRound: 0
+  unitPrefab: {fileID: 4496374788451283440, guid: 311e1c6d835a5c04bb89344737e3ddca, type: 3}
+  summonCount: 0
+  isEveryWave: 0

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8f7f9220a0f14e4ebfe6bc148fba41c, type: 3}
+  m_Name: ImageData
+  m_EditorClassIdentifier: 
+  _imagePairList:
+  - _identifier: 0
+    _keyboardSprite: {fileID: 21300000, guid: 88af0e26617010e448f17bf5b9180981, type: 3}
+    _gamepadSprite: {fileID: 21300000, guid: 63aa85cb711aa4749a5554bee7ae10a7, type: 3}
+  - _identifier: 1
+    _keyboardSprite: {fileID: 21300000, guid: 31c87a947212c294ab0ac3b11b0e4586, type: 3}
+    _gamepadSprite: {fileID: 21300000, guid: 86524f3bb93ffe244a5b9dc1092ae240, type: 3}
+  - _identifier: 2
+    _keyboardSprite: {fileID: 21300000, guid: 792f5d5d7dac36842ad4ff7834ce0519, type: 3}
+    _gamepadSprite: {fileID: 21300000, guid: 438b02247754aa4429ad567a2b2a5152, type: 3}

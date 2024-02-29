@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22863db77dc96294d99886418fca41d1, type: 3}
+  m_Name: ReviveData
+  m_EditorClassIdentifier: 
+  _id: 0
+  _name: Revive
+  _skillGrade: -1
+  curSkillLevel: 0
+  _skillDataList:
+  - _iconSprite: {fileID: 0}
+    _displayName: "\uB9AC\uBC14\uC774\uBE0C"
+    _textColor: {r: 0, g: 0, b: 0, a: 0}
+    _description: 
+    _cooldown: 5
+    unitType: 0
+  _requiredMP: 0
+  _maxReviveCount: 1
+  _inputHandlerType: 2
+  _rangeSelectorType: 1
+  prior: 0
+  _canMove: 1
+  _afterDelayTime: 0

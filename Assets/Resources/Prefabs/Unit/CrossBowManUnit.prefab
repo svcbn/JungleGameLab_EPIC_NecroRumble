@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5699931764679810652
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1012455344661342160, guid: 2a2ffed79d7fbc248a66f6bb1352dacf, type: 3}
+      propertyPath: m_Name
+      value: CrossBowManUnit
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012455344661342170, guid: 2a2ffed79d7fbc248a66f6bb1352dacf, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012455344661342170, guid: 2a2ffed79d7fbc248a66f6bb1352dacf, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012455344661342170, guid: 2a2ffed79d7fbc248a66f6bb1352dacf, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012455344661342170, guid: 2a2ffed79d7fbc248a66f6bb1352dacf, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012455344661342170, guid: 2a2ffed79d7fbc248a66f6bb1352dacf, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012455344661342170, guid: 2a2ffed79d7fbc248a66f6bb1352dacf, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012455344661342170, guid: 2a2ffed79d7fbc248a66f6bb1352dacf, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012455344661342170, guid: 2a2ffed79d7fbc248a66f6bb1352dacf, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012455344661342170, guid: 2a2ffed79d7fbc248a66f6bb1352dacf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012455344661342170, guid: 2a2ffed79d7fbc248a66f6bb1352dacf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012455344661342170, guid: 2a2ffed79d7fbc248a66f6bb1352dacf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1012455345687855704, guid: 2a2ffed79d7fbc248a66f6bb1352dacf, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 22100000, guid: 69ec361b2c9bee84a9ddeda09e9c86eb, type: 2}
+    - target: {fileID: 1012455345687855706, guid: 2a2ffed79d7fbc248a66f6bb1352dacf, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -738066921, guid: f4bfd5d23d8af1040b9a99531de87577, type: 3}
+    - target: {fileID: 1012455346055448594, guid: 2a2ffed79d7fbc248a66f6bb1352dacf, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 22100000, guid: 69ec361b2c9bee84a9ddeda09e9c86eb, type: 2}
+    - target: {fileID: 1012455346055448596, guid: 2a2ffed79d7fbc248a66f6bb1352dacf, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -738066921, guid: f4bfd5d23d8af1040b9a99531de87577, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a2ffed79d7fbc248a66f6bb1352dacf, type: 3}
+--- !u!1 &4690164176738892172 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1012455344661342160, guid: 2a2ffed79d7fbc248a66f6bb1352dacf, type: 3}
+  m_PrefabInstance: {fileID: 5699931764679810652}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4557607726329356597
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4690164176738892172}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dadc72f9ab952d4fba885088b919020, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetLayerMask:
+    serializedVersion: 2
+    m_Bits: 0
+  detectLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  IsPlayerFirst: 1
+  detectRadius: 10
+  _currentFaction: 1
+  _currentHp: 0

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6252cd50ebabc64885c1e4b8c7cc79b, type: 3}
+  m_Name: HiddenBladeData
+  m_EditorClassIdentifier: 
+  _id: 402
+  _name: HiddenBlade
+  _skillGrade: 403
+  _skillDataList:
+  - _iconSprite: {fileID: 21300000, guid: 7acea31e0a3060846a7f8dd190a31b3a, type: 3}
+    _displayName: ^text_upgrade_assassin_hiddenBlade_level1_name
+    _textColor: {r: 0.9716981, g: 0.35292807, b: 0.35292807, a: 1}
+    _description: ^text_upgrade_assassin_hiddenBlade_level1_desc
+    _cooldown: 0
+    unitType: 21
+  - _iconSprite: {fileID: 21300000, guid: 4f7f261e66a31c6459733d636a495884, type: 3}
+    _displayName: ^text_upgrade_assassin_hiddenBlade_level2_name
+    _textColor: {r: 0.8396226, g: 0.8332348, b: 0.14653791, a: 1}
+    _description: ^text_upgrade_assassin_hiddenBlade_level2_desc
+    _cooldown: 0
+    unitType: 21
+  additionalAttackCount1: 1
+  hpDownPercent1: 8
+  additionalAttackCount2: 2
+  hpDownPercent2: 0

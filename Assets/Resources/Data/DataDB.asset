@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a58a3aec73224a440a49e596d648e346, type: 3}
+  m_Name: DataDB
+  m_EditorClassIdentifier: 
+  UnitSheet:
+  - idx: 0
+    name: skeleton_knight
+    displayname: Skeleton Knight
+    type: knight
+    maxHp: 30
+    damage: 7
+    attackPerSec: 1.3
+    moveSpeed: 2.1
+    enemyDetectRadius: 7
+    attackRange: 1.1
+  - idx: 1
+    name: skeleton_shield
+    displayname: Skeleton Shiled
+    type: shield
+    maxHp: 100
+    damage: 7
+    attackPerSec: 0.98
+    moveSpeed: 2.1
+    enemyDetectRadius: 7
+    attackRange: 1.1
+  - idx: 2
+    name: skeleton_archer
+    displayname: Skeleton Archer
+    type: archer
+    maxHp: 100
+    damage: 8
+    attackPerSec: 1.7
+    moveSpeed: 2.1
+    enemyDetectRadius: 7
+    attackRange: 1.1
+  - idx: 3
+    name: skeleton_magic
+    displayname: Skeleton Magic
+    type: magic
+    maxHp: 600
+    damage: 15
+    attackPerSec: 0.8
+    moveSpeed: 2.1
+    enemyDetectRadius: 7
+    attackRange: 3
+  - idx: 4
+    name: skeleton_deathKnight
+    displayname: Death Knight
+    type: knight
+    maxHp: 45
+    damage: 6
+    attackPerSec: 1.6
+    moveSpeed: 2.1
+    enemyDetectRadius: 7
+    attackRange: 1.1
+  SkillSheet:
+  - idx: 201
+    name: summonSkeleton
+    displayName: "\uC2A4\uCF08\uB808\uD1A4 \uC18C\uD658"
+    description: "\uC8FC\uBCC0 \uC2DC\uCCB4\uB97C \uC2A4\uCF08\uB808\uD1A4\uC73C\uB85C
+      \uC18C\uD658\uD569\uB2C8\uB2E4."
+    upgradeValue: 
+    cooltime: 3
+    cost: 0
+  - idx: 202
+    name: summonGolem
+    displayName: "\uACE8\uB818 \uC18C\uD658"
+    description: "\uC8FC\uBCC0 \uC2DC\uCCB4 {5}\uAD6C\uB97C \uACE8\uB818\uC73C\uB85C
+      \uC18C\uD658\uD569\uB2C8\uB2E4."
+    upgradeValue: 5,4,3,2,1
+    cooltime: 15
+    cost: 0
+  - idx: 203
+    name: boneSpear
+    displayName: "\uBF08 \uCC3D"
+    description: "\uBF08 \uCC3D(\uB370\uBBF8\uC9C0: {30})\uC744 \uB9CC\uB4E4\uC5B4
+      \uC6D0\uD558\uB294 \uBC29\uD5A5\uC73C\uB85C \uB358\uC9D1\uB2C8\uB2E4."
+    upgradeValue: 30,40,50,80,120
+    cooltime: 5
+    cost: 5
+  - idx: 204
+    name: boneWall
+    displayName: "\uBF08 \uBCBD"
+    description: "\uBF08 \uBCBD\uC744 \uB9CC\uB4E4\uC5B4 \uC6D0\uD558\uB294 \uC704\uCE58\uC5D0
+      \uC124\uCE58\uD569\uB2C8\uB2E4. \uBCBD\uC740 {2} \uCD08 \uB4A4\uC5D0 \uC0AC\uB77C\uC9D1\uB2C8\uB2E4.
+      \uBCBD\uC740 \uD22C\uC0AC\uCCB4\uB97C \uBC29\uC5B4\uD569\uB2C8\uB2E4."
+    upgradeValue: 2,5,10
+    cooltime: 10
+    cost: 10
+  - idx: 205
+    name: bloodAbsorption
+    displayName: "\uD53C \uD761\uC218"
+    description: "\uC6D0\uD558\uB294 \uC801\uC744 \uD0C0\uAC9F\uD305\uD558\uC5EC
+      10\uCD08\uB3D9\uC548 \uC801\uC758 \uCCB4\uB825\uC744 {10} \uBE7C\uC557\uC2B5\uB2C8\uB2E4."
+    upgradeValue: 10,20,30,40,50
+    cooltime: 30
+    cost: 20
+  - idx: 206
+    name: corpseExplosion
+    displayName: "\uC2DC\uCCB4 \uD3ED\uBC1C"
+    description: "\uC8FC\uBCC0 \uC2DC\uCCB4\uB97C \uD3ED\uBC1C\uC2DC\uCF1C \uC2DC\uCCB4
+      \uD558\uB098\uB2F9 {10}\uC758 \uB370\uBBF8\uC9C0\uB97C \uC785\uD799\uB2C8\uB2E4."
+    upgradeValue: 10,30,40,50,60
+    cooltime: 5
+    cost: 5

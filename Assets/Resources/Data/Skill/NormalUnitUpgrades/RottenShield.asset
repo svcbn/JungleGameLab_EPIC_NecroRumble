@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8119b5d4d317f2748a7f3f78200c4c3f, type: 3}
+  m_Name: RottenShield
+  m_EditorClassIdentifier: 
+  _id: 100
+  _name: Rotten Shield
+  _skillGrade: 100
+  _skillDataList:
+  - _iconSprite: {fileID: 21300000, guid: b8ef6b2f86d329648a3b923558593bb4, type: 3}
+    _displayName: ^text_upgrade_unit_rottenShield_name
+    _textColor: {r: 0, g: 0, b: 0, a: 0}
+    _description: ^text_upgrade_unit_rottenShield_desc
+    _cooldown: 0
+    unitType: 0
+  _statModifiers:
+  - statType: 0
+    modifierName: Rotten Shield
+    value: 24
+    type: 1
+    duration: Infinity
+    shouldBeDisplayed: 1
+  - statType: 5
+    modifierName: Rotten Shield
+    value: -6
+    type: 1
+    duration: Infinity
+    shouldBeDisplayed: 1
+  _isRecallUpgrade: 0

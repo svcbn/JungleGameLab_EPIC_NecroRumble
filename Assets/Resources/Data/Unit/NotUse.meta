@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Resources/Animations/Animators/AssassinUnit_H.overrideController.meta
+guid: eaeab29f91ef8594098aa2abd40284e1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+========
+guid: e612ab43ebcf44f448b56235f6b77c91
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+>>>>>>>> main:Assets/Resources/Data/Unit/NotUse.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

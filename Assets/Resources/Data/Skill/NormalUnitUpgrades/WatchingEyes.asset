@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8119b5d4d317f2748a7f3f78200c4c3f, type: 3}
+  m_Name: WatchingEyes
+  m_EditorClassIdentifier: 
+  _id: 107
+  _name: Watching Eyes
+  _skillGrade: 103
+  _skillDataList:
+  - _iconSprite: {fileID: 21300000, guid: 684728d386c69884cae62bf1181e25ed, type: 3}
+    _displayName: ^text_upgrade_unit_watchingEyes_name
+    _textColor: {r: 0.41430968, g: 0.972549, b: 0.3529412, a: 1}
+    _description: ^text_upgrade_unit_watchingEyes_desc
+    _cooldown: 0
+    unitType: 0
+  _statModifiers:
+  - statType: 4
+    modifierName: Watching Eyes
+    value: 40
+    type: 1
+    duration: 2
+    shouldBeDisplayed: 0
+  _isRecallUpgrade: 1
