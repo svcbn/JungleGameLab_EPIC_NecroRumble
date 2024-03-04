@@ -1,7 +1,8 @@
 # JungleGameLab EPIC  
 ##### Krafton Jungle GameLab EPIC Project  
 
-![](./Thumbnail.gif)  
+<img src="Thumbnail.gif" width="70%"> 
+<br/>
    
 - 프로젝트명 : Necro Rumble
 - 장르 : 2D 픽셀, 액션 로그라이크, 생존, 덱빌딩
